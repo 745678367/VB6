@@ -1,0 +1,2 @@
+regsvr32 %~dp0MSWINSCK.OCX
+regsvr32 %~dp0MSADODC.OCX
